@@ -77,12 +77,12 @@ Projects involving predictive analytics, intelligent systems, and data-driven ap
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=divyanshu2580&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=divyanshu2580&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
     height="180"
   />
 
   <img
-    src="https://streak-stats.demolab.com?user=divyanshu2580&theme=github-dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=divyanshu2580&theme=tokyonight&hide_border=true"
     height="180"
   />
 </p>
@@ -93,7 +93,7 @@ Projects involving predictive analytics, intelligent systems, and data-driven ap
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu2580&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu2580&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
     height="170"
   />
 </p>
