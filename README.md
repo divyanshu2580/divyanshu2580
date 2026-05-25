@@ -76,13 +76,13 @@ Projects involving predictive analytics, intelligent systems, and data-driven ap
 ## GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=divyanshu2580&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyanshu2580&theme=github_dark" 
     height="180"
   />
 
-  <img
-    src="https://streak-stats.demolab.com?user=divyanshu2580&theme=tokyonight&hide_border=true"
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyanshu2580&theme=github_dark&utcOffset=5.5" 
     height="180"
   />
 </p>
@@ -92,12 +92,16 @@ Projects involving predictive analytics, intelligent systems, and data-driven ap
 ## Most Used Languages
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu2580&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="170"
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanshu2580&theme=github_dark" 
+    height="180"
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyanshu2580&theme=github_dark" 
+    height="180"
   />
 </p>
-
 ---
 
 ## Connect
