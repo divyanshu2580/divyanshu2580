@@ -76,15 +76,17 @@ Projects involving predictive analytics, intelligent systems, and data-driven ap
 ## GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyanshu2580&theme=github_dark" 
-    height="180"
-  />
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyanshu2580&theme=github_dark" />
+</td>
 
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyanshu2580&theme=github_dark&utcOffset=5.5" 
-    height="180"
-  />
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyanshu2580&theme=github_dark&utcOffset=5.5" />
+</td>
+</tr>
+</table>
 </p>
 
 ---
@@ -92,16 +94,19 @@ Projects involving predictive analytics, intelligent systems, and data-driven ap
 ## Most Used Languages
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanshu2580&theme=github_dark" 
-    height="180"
-  />
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanshu2580&theme=github_dark" />
+</td>
 
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyanshu2580&theme=github_dark" 
-    height="180"
-  />
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyanshu2580&theme=github_dark" />
+</td>
+</tr>
+</table>
 </p>
+
 ---
 
 ## Connect
