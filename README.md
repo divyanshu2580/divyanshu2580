@@ -35,6 +35,9 @@ Building scalable data pipelines, real-time streaming systems, and ML-driven sol
 - Data Pipelines
 - ETL Processing
 - Real-Time Streaming
+- AI Agents
+- MCP
+- AWS and GCP
 
 ---
 
