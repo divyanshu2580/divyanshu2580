@@ -1,62 +1,79 @@
 <h1 align="center">Divyanshu Sharma</h1>
 
 <p align="center">
-Data Engineer • Machine Learning Engineer • AI Enthusiast
+Data Engineer • Machine Learning Engineer • AI Systems Enthusiast
+</p>
+
+<p align="center">
+Building scalable data pipelines, real-time streaming systems, and ML-driven solutions.
 </p>
 
 ---
 
 ## About Me
 
-- Data and Machine Learning Engineer focused on building scalable and practical solutions
-- Interested in machine learning, data engineering, automation, and AI systems
-- Experienced with Python, SQL, PostgreSQL, and data-driven application development
-- Passionate about solving real-world problems using data and intelligent systems
+- Data & Machine Learning Engineer with interest in scalable data systems
+- Focused on ETL pipelines, distributed processing, and real-time streaming
+- Experienced with Python, Spark, Kafka, Databricks, SQL, and PostgreSQL
+- Interested in Machine Learning, Data Engineering, and AI applications
 
 ---
 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,vscode" />
 </p>
 
-### Skills
+### Technologies
+- Apache Spark
+- Kafka
+- Databricks
+- Airflow
+- SQL
 - Machine Learning
-- Data Analysis
-- Data Engineering
-- Database Management
-- Backend Development
-- API Integration
-- Automation
+- Data Pipelines
+- ETL Processing
+- Real-Time Streaming
 
 ---
 
-## Projects
+## Featured Projects
 
-### AI-Powered Medical Assistant
-- Symptom analysis and healthcare assistance system
-- Integrated chatbot-based interaction
-- Data-driven prediction and recommendation workflows
+### 🚀 Real-Time Data Streaming Pipeline
+Real-time streaming architecture built using Kafka, Spark, Cassandra, and Airflow.
 
-### Messenger Application
-- Desktop messaging platform with PostgreSQL backend
-- File sharing, profile management, and chat system
-- Built with scalable database integration
-
-### Crop Prediction System
-- Agricultural prediction system using historical datasets
-- Data preprocessing and forecasting workflows
-- CSV-based analytical model implementation
-
-### Hospital Management System
-- Management platform for patient and appointment handling
-- Authentication and database integration
-- Workflow automation for healthcare operations
+**Key Highlights**
+- Real-time data ingestion and processing
+- Distributed streaming workflows
+- Workflow orchestration using Airflow
+- Scalable pipeline architecture
 
 ---
 
-## GitHub Statistics
+### 📊 Databricks Sales ETL Pipelines
+ETL solution developed in Databricks using PySpark for transforming and processing sales datasets.
+
+**Key Highlights**
+- PySpark-based data transformation
+- End-to-end ETL workflow
+- Structured data processing
+- Scalable analytics pipeline
+
+---
+
+### 🤖 AI & Machine Learning Projects
+Projects involving predictive analytics, intelligent systems, and data-driven applications.
+
+**Focus Areas**
+- Machine Learning workflows
+- Predictive modeling
+- Data preprocessing
+- Analytical systems
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img
@@ -77,14 +94,14 @@ Data Engineer • Machine Learning Engineer • AI Enthusiast
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu2580&layout=compact&theme=github_dark&hide_border=true"
-    height="160"
+    height="170"
   />
 </p>
 
 ---
 
-## Contact
+## Connect
 
 - GitHub: https://github.com/divyanshu2580
-- LinkedIn: Add your LinkedIn profile
+- LinkedIn: Add your LinkedIn URL
 - Email: Add your professional email
