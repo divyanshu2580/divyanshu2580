@@ -112,5 +112,5 @@ Projects involving predictive analytics, intelligent systems, and data-driven ap
 ## Connect
 
 - GitHub: https://github.com/divyanshu2580
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your professional email
+- LinkedIn: https://www.linkedin.com/in/divyanshu-sharma26/
+- Email: droansharma7296@gmail.com
